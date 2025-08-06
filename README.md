@@ -1,1 +1,3 @@
 # EM BREVE NOVIDADES...
+
+Projeto inicia em 11/08 ou 25/08
