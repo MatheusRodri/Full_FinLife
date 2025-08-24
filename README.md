@@ -1,6 +1,6 @@
-# EM BREVE NOVIDADES...
+# FINLIFE
 
-Projeto inicia em 11/08 ou 25/08 ! 
+Projeto iniciado !
 
 Irei documentar tudo ou quase tudo em:
 [X](https://x.com/OTechMatheus)
